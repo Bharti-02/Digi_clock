@@ -1,1 +1,1 @@
-# Digi_clock
+#Digital_clock using python
